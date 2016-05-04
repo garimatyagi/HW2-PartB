@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # reddit
 
 <img src="https://secure.gravatar.com/avatar/c638493729c2f009988c9e5bd9b5e116?s=200" align="right">
@@ -29,3 +30,7 @@ Happy hacking!
 Thanks for wanting to help make reddit better! First things first, though: **github issues is only for _confirmed_, active bugs**. Please submit ideas to [/r/ideasfortheadmins](https://www.reddit.com/r/ideasfortheadmins/).
 
 Please read more on contributions in [CONTRIBUTING.md](CONTRIBUTING.md).
+=======
+# HW2-PartB
+assignment 2 part b submission
+>>>>>>> 0a2ec87b01f8c4194ed878796bb49190416dfcac
